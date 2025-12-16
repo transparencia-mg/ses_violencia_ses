@@ -8,6 +8,7 @@ Documentação das principais alterações sofridas por este conjunto de dados.
 
 ### [0.1.0] - 2023-07-05
 
-- Versão inicial em produção publicada
+- Versão inicial em produção publicada.
+- 
 
   
